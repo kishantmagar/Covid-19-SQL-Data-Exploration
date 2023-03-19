@@ -1,4 +1,4 @@
-sELECT *
+SELECT *
 FROM PortfolioProject..CovidDeaths
 WHERE continent is not null
 ORDER BY 3,4
